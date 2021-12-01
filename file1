@@ -1,0 +1,67 @@
+
+reddy@manjunathreddy MINGW64 ~
+$ pwd
+/c/Users/reddy
+
+reddy@manjunathreddy MINGW64 ~
+$ mkdir day1
+
+reddy@manjunathreddy MINGW64 ~
+$ cd demo
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ touch file1
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ touch file2
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ touch file3
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ touch file4
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ touch fiile5
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ touch file6
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ touch file7
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ touch file8
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ touch file9
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ touch file10
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ ls
+ fiile5   file10   file3   file6   file8  'text file 1.txt'
+ file1    file2    file4   file7   file9
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ ls-a
+bash: ls-a: command not found
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ ls-ll
+bash: ls-ll: command not found
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ ls-II
+bash: ls-II: command not found
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ mkdir folder1
+
+reddy@manjunathreddy MINGW64 ~/demo
+$ pwd
+/c/Users/reddy/demo
+
+reddy@manjunathreddy MINGW64 ~/demo
+$
